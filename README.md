@@ -1,4 +1,14 @@
-</a>
+<div align="center">
+  <a href="https://github.com/K1rsN7/music_distribution_for_cars/issues">
+		<img src="https://img.shields.io/github/issues/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="https://github.com/K1rsN7/music_distribution_for_cars/stargazers">
+		<img src="https://img.shields.io/github/stars/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
+	</a>
+	<a href="./LICENSE">
+		<img src="https://img.shields.io/github/license/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
+	</a>
+</div>
 <div align="center">
   <h2>Idea about the program</h2>
 </div>
