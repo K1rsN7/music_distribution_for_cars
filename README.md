@@ -1,13 +1,13 @@
 <img src="./banner.png">
 <div align="center">
   <a href="https://github.com/K1rsN7/music_distribution_for_cars/issues">
-		<img src="https://img.shields.io/github/issues/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/issues/K1rsN7/music_distribution_for_cars?color=E6CA9B&labelColor=322E2B&style=for-the-badge">
 	</a>
 	<a href="https://github.com/K1rsN7/music_distribution_for_cars/stargazers">
-		<img src="https://img.shields.io/github/stars/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/stars/K1rsN7/music_distribution_for_cars?color=E6CA9B&labelColor=322E2B&style=for-the-badge">
 	</a>
 	<a href="./LICENSE">
-		<img src="https://img.shields.io/github/license/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
+		<img src="https://img.shields.io/github/license/K1rsN7/music_distribution_for_cars?color=E6CA9B&labelColor=322E2B&style=for-the-badge">
 	</a>
 </div>
 <div align="center">
@@ -50,3 +50,11 @@ The program was made under the Windows operating system
   <img src="image3.png"/ >
   <img src="image4.png"/ >
 </div>
+<h2 align="center"> Star History</h2>
+<a href="https://star-history.com/#K1rsN7/TrackDistributor&Date">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=K1rsN7/TrackDistributor&type=Date&theme=dark" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=K1rsN7/TrackDistributor&type=Date" />
+   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=K1rsN7/SubManage&type=Date" />
+ </picture>
+</a>
