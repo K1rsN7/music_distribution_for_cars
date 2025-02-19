@@ -1,3 +1,4 @@
+<img src="./banner.png">
 <div align="center">
   <a href="https://github.com/K1rsN7/music_distribution_for_cars/issues">
 		<img src="https://img.shields.io/github/issues/K1rsN7/music_distribution_for_cars?color=070709&labelColor=1C2325&style=for-the-badge">
